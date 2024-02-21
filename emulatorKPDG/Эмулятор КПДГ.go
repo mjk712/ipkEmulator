@@ -1,14 +1,14 @@
 package main
 
 import (
-	//"github.com/mjk712/ipkEmulator/kpdg"
-	"emulator_can/kpdg"
 	"fmt"
 	"os"
 	"path/filepath"
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/mjk712/ipkEmulator/kpdg"
 
 	common "github.com/annettalekto/ipkCmn"
 	"github.com/annettalekto/ipkwiz"

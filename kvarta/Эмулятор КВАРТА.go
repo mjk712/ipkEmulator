@@ -5,12 +5,13 @@ package main
 
 import (
 	"fmt"
-	"ipkwiz"
 	"os"
 	"path/filepath"
 	"runtime/debug"
 	"strings"
 	"time"
+
+	"github.com/annettalekto/ipkwiz"
 
 	"github.com/amdf/ixxatvci3"
 	"github.com/amdf/ixxatvci3/candev"

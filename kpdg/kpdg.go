@@ -3,8 +3,9 @@ package kpdg
 import (
 	"errors"
 	"fmt"
-	"ipkwiz"
 	"time"
+
+	"github.com/annettalekto/ipkwiz"
 
 	"github.com/amdf/ixxatvci3/candev"
 )
